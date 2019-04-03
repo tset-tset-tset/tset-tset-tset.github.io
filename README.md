@@ -15,6 +15,7 @@
 ## 乃木坂46のANN (メインパーソナリティ: 新内眞衣)
 - [http://www.allnightnippon.com/nogizaka46/](http://www.allnightnippon.com/nogizaka46/) 乃木坂46のオールナイトニッポン - オールナイトニッポン.com ラジオAM1242+FM93 ニッポン放送
 - [https://www.showroom-live.com/nogizaka46ann](https://www.showroom-live.com/nogizaka46ann) 乃木坂46のオールナイトニッポン - SHOWROOM(ショールーム)
+- [https://www.showroom-live.com/pre_nogizaka46ann](https://www.showroom-live.com/pre_nogizaka46ann) 乃木坂46のオールナイトニッポン 超直前スペシャル！ - SHOWROOM(ショールーム)
 
 ## 乃木坂46・新内眞衣のANN0
 - [https://tset-tset-tset.github.io/ann0/](https://tset-tset-tset.github.io/ann0/) ann0 - tset-tset-tset.github.io

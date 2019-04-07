@@ -316,3 +316,6 @@
 - [https://live.line.me/channels/231/broadcast/3486](https://live.line.me/channels/231/broadcast/3486)	2016-04-13	乃木坂46・新内眞衣のANN0 アフタートーク#3
 - [https://live.line.me/channels/231/broadcast/3260](https://live.line.me/channels/231/broadcast/3260)	2016-04-06	乃木坂46・新内眞衣のANN0 アフタートーク#2
 - [https://live.line.me/channels/231/broadcast/3038](https://live.line.me/channels/231/broadcast/3038)	2016-03-30	乃木坂46・新内眞衣のANN0 アフタートーク#1
+
+## OL兼任アイドル 新内眞衣のまいちゅんカフェ
+- [https://tset-tset-tset.github.io/cafe/](https://tset-tset-tset.github.io/cafe/) cafe - tset-tset-tset.github.io

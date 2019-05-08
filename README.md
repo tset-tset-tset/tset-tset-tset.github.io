@@ -173,7 +173,7 @@
 - [http://www.allnightnippon.com/news/20161114-951/](http://www.allnightnippon.com/news/20161114-951/) 乃木坂４６・新内眞衣が『埼玉ラジオＰＲ大使』に！埼玉県民の日に待望のメンバー入り！
 - [http://www.allnightnippon.com/news/20161111-928/](http://www.allnightnippon.com/news/20161111-928/) 乃木坂46・新内が埼玉観光大使に！！ラジオで発信し続けた地元愛
 - [http://www.allnightnippon.com/news/20161101-5213/](http://www.allnightnippon.com/news/20161101-5213/) 工藤大輝 「乃木坂46 / サヨナラの意味」を語る ～大切なメッセージや想いが詰まっています～
-- http://www.allnightnippon.com/news/20161020-544/](http://www.allnightnippon.com/news/20161020-544/) 橋本奈々未「乃木坂46」卒業をオールナイトニッポンで発表「来年の2月20日をもち、普通の女性として生きていきます」　【ほぼ全文掲載】
+- [http://www.allnightnippon.com/news/20161020-544/](http://www.allnightnippon.com/news/20161020-544/) 橋本奈々未「乃木坂46」卒業をオールナイトニッポンで発表「来年の2月20日をもち、普通の女性として生きていきます」　【ほぼ全文掲載】
 
 ### ブログ一覧
 - [http://www.allnightnippon.com/nogizaka/nogizaka_blog/20190401-40099/](http://www.allnightnippon.com/nogizaka/nogizaka_blog/20190401-40099/) 3月27日の新内眞衣のオールナイトニッポンzeroは？？？

@@ -18,6 +18,7 @@
 - [https://www.showroom-live.com/pre_nogizaka46ann](https://www.showroom-live.com/pre_nogizaka46ann) 乃木坂46のオールナイトニッポン 超直前スペシャル！ - SHOWROOM(ショールーム)
 
 ### NEWS一覧
+- [http://www.allnightnippon.com/news/20190519-41821/](http://www.allnightnippon.com/news/20190519-41821/) 乃木坂46新内眞衣、思い出の 地・鹿児島を訪問！
 - [http://www.allnightnippon.com/news/20190510-41516/](http://www.allnightnippon.com/news/20190510-41516/) 乃木坂46・新内眞衣、雪予報 の札幌で立ち往生「そんなことある！？」
 - [http://www.allnightnippon.com/news/20190508-41402/](http://www.allnightnippon.com/news/20190508-41402/) 乃木坂46新内眞衣、ほぼ全員“年下の先輩”の状況だった加入当初を振り返る
 - [http://www.allnightnippon.com/news/20190426-40970/](http://www.allnightnippon.com/news/20190426-40970/) 乃木坂46の23rdシングル「Sing Out！」 5月1日(水)のオールナイトニッポンで初オンエア決定！

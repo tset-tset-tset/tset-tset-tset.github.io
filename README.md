@@ -18,6 +18,12 @@
 - [https://www.showroom-live.com/pre_nogizaka46ann](https://www.showroom-live.com/pre_nogizaka46ann) 乃木坂46のオールナイトニッポン 超直前スペシャル！ - SHOWROOM(ショールーム)
 
 ### NEWS一覧
+- [http://www.allnightnippon.com/news/20190612-42668/](http://www.allnightnippon.com/news/20190612-42668/) 乃木坂46新内眞衣、年下メン バーの悩み“大人っぽくなりたい”に「うらやましい…」
+- [http://www.allnightnippon.com/news/20190605-42397/](http://www.allnightnippon.com/news/20190605-42397/) 乃木坂46新内眞衣、ライブで 投げたサインボールがまさかの方向へ
+- [http://www.allnightnippon.com/news/20190529-42207/](http://www.allnightnippon.com/news/20190529-42207/) 桜井玲香＆佐藤楓、6月12日の「乃木坂46のオールナイトニッポン」にゲスト生出演決定！
+- [http://www.allnightnippon.com/news/20190529-42152/](http://www.allnightnippon.com/news/20190529-42152/) 乃木坂46 新内眞衣「残される方が悲しい」 斉藤優里・伊藤かりんとの共演に涙腺崩壊
+- [http://www.allnightnippon.com/news/20190526-42076/](http://www.allnightnippon.com/news/20190526-42076/) 乃木坂46新内眞衣、“都内の タクシーあるある(？)”を体験
+- [http://www.allnightnippon.com/news/20190523-41906/](http://www.allnightnippon.com/news/20190523-41906/) 乃木坂46 高山一実＆与田祐希、最新シングル発売日に「オールナイトニッポン」へのゲスト出演決定！
 - [http://www.allnightnippon.com/news/20190519-41821/](http://www.allnightnippon.com/news/20190519-41821/) 乃木坂46新内眞衣、思い出の 地・鹿児島を訪問！
 - [http://www.allnightnippon.com/news/20190510-41516/](http://www.allnightnippon.com/news/20190510-41516/) 乃木坂46・新内眞衣、雪予報 の札幌で立ち往生「そんなことある！？」
 - [http://www.allnightnippon.com/news/20190508-41402/](http://www.allnightnippon.com/news/20190508-41402/) 乃木坂46新内眞衣、ほぼ全員“年下の先輩”の状況だった加入当初を振り返る

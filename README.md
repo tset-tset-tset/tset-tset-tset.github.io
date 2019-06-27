@@ -18,6 +18,8 @@
 - [https://www.showroom-live.com/pre_nogizaka46ann](https://www.showroom-live.com/pre_nogizaka46ann) 乃木坂46のオールナイトニッポン 超直前スペシャル！ - SHOWROOM(ショールーム)
 
 ### NEWS一覧
+- [http://www.allnightnippon.com/news/20190626-43135/](http://www.allnightnippon.com/news/20190626-43135/) 乃木坂46新内眞衣、キャプテ ンの桜井玲香とディズニーランドへ
+- [http://www.allnightnippon.com/news/20190620-42978/](http://www.allnightnippon.com/news/20190620-42978/) 乃木坂46新内眞衣、「ちょっ とやめてほしい…」母親のちょっと困った行動に悩む
 - [http://www.allnightnippon.com/news/20190612-42668/](http://www.allnightnippon.com/news/20190612-42668/) 乃木坂46新内眞衣、年下メン バーの悩み“大人っぽくなりたい”に「うらやましい…」
 - [http://www.allnightnippon.com/news/20190605-42397/](http://www.allnightnippon.com/news/20190605-42397/) 乃木坂46新内眞衣、ライブで 投げたサインボールがまさかの方向へ
 - [http://www.allnightnippon.com/news/20190529-42207/](http://www.allnightnippon.com/news/20190529-42207/) 桜井玲香＆佐藤楓、6月12日の「乃木坂46のオールナイトニッポン」にゲスト生出演決定！

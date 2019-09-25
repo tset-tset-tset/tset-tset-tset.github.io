@@ -18,6 +18,25 @@
 - [https://www.showroom-live.com/pre_nogizaka46ann](https://www.showroom-live.com/pre_nogizaka46ann) 乃木坂46のオールナイトニッポン 超直前スペシャル！ - SHOWROOM(ショールーム)
 
 ### NEWS一覧
+- [https://www.allnightnippon.com/news/20190925-46405/](https://www.allnightnippon.com/news/20190925-46405/) 乃木坂46新内眞衣、「高校 生クイズ」楽屋の様子をレポート！ 星野みなみの学生時代の得意科目は？
+- [https://www.allnightnippon.com/news/20190918-46001/](https://www.allnightnippon.com/news/20190918-46001/) 乃木坂46新内眞衣、「ミス セブンティーン2008」最終審査での思い出を明かす
+- [https://www.allnightnippon.com/news/20190916-45926/](https://www.allnightnippon.com/news/20190916-45926/) 乃木坂46、東京ゲームショ ウに初登場　齋藤飛鳥が“彼氏たち”との驚きのエピソードを告白
+- [https://www.allnightnippon.com/news/20190911-45721/](https://www.allnightnippon.com/news/20190911-45721/) 乃木坂46生田絵梨花、“泣 かずにはいられなかった”桜井玲香のラストステージを語る
+- [https://www.allnightnippon.com/news/20190904-45501/](https://www.allnightnippon.com/news/20190904-45501/) 乃木坂46卒業の桜井玲香が 最後のラジオ生放送出演！リスナーにメッセージも！
+- [https://www.allnightnippon.com/news/20190828-45261/](https://www.allnightnippon.com/news/20190828-45261/) 乃木坂46 新内眞衣、「真夏の全国ツアー」楽屋の様子をレポート！
+- [https://www.allnightnippon.com/news/20190820-44982/](https://www.allnightnippon.com/news/20190820-44982/) 乃木坂46秋元真夏、新キャ プテン就任に「人としてもステップアップしなければいけない時期」
+- [https://www.allnightnippon.com/news/20190814-44782/](https://www.allnightnippon.com/news/20190814-44782/) 乃木坂46秋元真夏が新キャ プテンに決定
+- [https://www.allnightnippon.com/news/20190814-44774/](https://www.allnightnippon.com/news/20190814-44774/) 乃木坂46新内眞衣、苦手な 心霊スポットへの潜入企画に涙
+- [https://www.allnightnippon.com/news/20190813-44710/](https://www.allnightnippon.com/news/20190813-44710/) 乃木坂46 が2曲のMusic Videoを一挙に公開
+- [https://www.allnightnippon.com/news/20190812-44688/](https://www.allnightnippon.com/news/20190812-44688/) 欅坂46・尾関梨香、乃木坂46・新内眞衣と食事会「ラジオの先輩からアドバイスを」
+- [https://www.allnightnippon.com/news/20190807-44512/](https://www.allnightnippon.com/news/20190807-44512/) 乃木坂46・新内眞衣、初選 抜の4期生・遠藤さくら達に「本当に若い……」
+- [https://www.allnightnippon.com/news/20190806-44478/](https://www.allnightnippon.com/news/20190806-44478/) 乃木坂46 24thシングル「夜明けまで強がらなくてもいい」ジャケット写真が公開
+- [https://www.allnightnippon.com/news/20190731-44291/](https://www.allnightnippon.com/news/20190731-44291/) 乃木坂46 NEWシングル　7月31日（水）深夜1時～「乃木坂46のオールナイトニッポン」にて初オンエアーが決定！
+- [https://www.allnightnippon.com/news/20190731-44313/](https://www.allnightnippon.com/news/20190731-44313/) 乃木坂46新内眞衣、「FNSうたの夏まつり」でのディズニーとのコラボに感動
+- [https://www.allnightnippon.com/news/20190724-44066/](https://www.allnightnippon.com/news/20190724-44066/) 乃木坂46新内眞衣が絶賛す るキャプテン桜井玲香のMC力！
+- [https://www.allnightnippon.com/news/20190717-43831/](https://www.allnightnippon.com/news/20190717-43831/) 乃木坂46新内眞衣、卒業発 表した親友・桜井玲香に「もっと一緒に活動したかった」
+- [https://www.allnightnippon.com/news/20190711-43705/](https://www.allnightnippon.com/news/20190711-43705/) 乃木坂46・新内×和田、埼 玉と広島のご当地給食を語る
+- [https://www.allnightnippon.com/news/20190703-43332/](https://www.allnightnippon.com/news/20190703-43332/) 乃木坂46新内眞衣、「子犬 を飼いたい！」という願いに悶々
 - [http://www.allnightnippon.com/news/20190626-43135/](http://www.allnightnippon.com/news/20190626-43135/) 乃木坂46新内眞衣、キャプテ ンの桜井玲香とディズニーランドへ
 - [http://www.allnightnippon.com/news/20190620-42978/](http://www.allnightnippon.com/news/20190620-42978/) 乃木坂46新内眞衣、「ちょっ とやめてほしい…」母親のちょっと困った行動に悩む
 - [http://www.allnightnippon.com/news/20190612-42668/](http://www.allnightnippon.com/news/20190612-42668/) 乃木坂46新内眞衣、年下メン バーの悩み“大人っぽくなりたい”に「うらやましい…」

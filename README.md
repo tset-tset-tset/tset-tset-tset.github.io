@@ -18,18 +18,29 @@
 - [https://www.showroom-live.com/pre_nogizaka46ann](https://www.showroom-live.com/pre_nogizaka46ann) 乃木坂46のオールナイトニッポン 超直前スペシャル！ - SHOWROOM(ショールーム)
 
 ### NEWS一覧
-- [https://www.allnightnippon.com/news/20190925-46405/](https://www.allnightnippon.com/news/20190925-46405/) 乃木坂46新内眞衣、「高校 生クイズ」楽屋の様子をレポート！ 星野みなみの学生時代の得意科目は？
-- [https://www.allnightnippon.com/news/20190918-46001/](https://www.allnightnippon.com/news/20190918-46001/) 乃木坂46新内眞衣、「ミス セブンティーン2008」最終審査での思い出を明かす
-- [https://www.allnightnippon.com/news/20190916-45926/](https://www.allnightnippon.com/news/20190916-45926/) 乃木坂46、東京ゲームショ ウに初登場　齋藤飛鳥が“彼氏たち”との驚きのエピソードを告白
-- [https://www.allnightnippon.com/news/20190911-45721/](https://www.allnightnippon.com/news/20190911-45721/) 乃木坂46生田絵梨花、“泣 かずにはいられなかった”桜井玲香のラストステージを語る
-- [https://www.allnightnippon.com/news/20190904-45501/](https://www.allnightnippon.com/news/20190904-45501/) 乃木坂46卒業の桜井玲香が 最後のラジオ生放送出演！リスナーにメッセージも！
+- [https://www.allnightnippon.com/news/20191114-48223/](https://www.allnightnippon.com/news/20191114-48223/) 乃木坂46・新内眞衣、今年も地元・埼玉の「県庁オープンデー」に登場！ イカついハッピ姿に会場はどよめき？
+- [https://www.allnightnippon.com/news/20191113-48204/](https://www.allnightnippon.com/news/20191113-48204/) 乃木坂46新内眞衣、桜井玲香や秋元真夏も集まった“自宅パーティー”を語る
+- [https://www.allnightnippon.com/news/20191106-48014/](https://www.allnightnippon.com/news/20191106-48014/) 乃木坂46・新内眞衣、卒業生大集合SPに感慨「ちょっと前の乃木坂46の楽屋」
+- [https://www.allnightnippon.com/news/20191031-47738/](https://www.allnightnippon.com/news/20191031-47738/) 11.14 埼玉県民の日　乃木坂46 新内眞衣が地元・埼玉県「県庁オープンデー」の『乃木坂46のANN』コラボイベント登壇決定！
+- [https://www.allnightnippon.com/news/20191030-47716/](https://www.allnightnippon.com/news/20191030-47716/) 乃木坂46卒業生が大集結！ 今だから言えるグループ在籍時の話を暴露
+- [https://www.allnightnippon.com/news/20191027-47617/](https://www.allnightnippon.com/news/20191027-47617/) “新体制”となった乃木坂46が上海単独公演敢行
+- [https://www.allnightnippon.com/news/20191026-47522/](https://www.allnightnippon.com/news/20191026-47522/) 欅坂46・尾関梨香＆乃木坂46・新内眞衣が明かす「ラジオをきっかけに得た大切なもの」
+- [https://www.allnightnippon.com/news/20191016-47283/](https://www.allnightnippon.com/news/20191016-47283/) 乃木坂46新内・梅澤・大園、ちょっとダサいSNSグループ名をカミングアウト
+- [https://www.allnightnippon.com/news/20191012-47071/](https://www.allnightnippon.com/news/20191012-47071/) WANIMA、Twitterトレンド1位を目指すも「乃木坂46」「フワちゃん」の壁に四苦八苦
+- [https://www.allnightnippon.com/news/20191009-47057/](https://www.allnightnippon.com/news/20191009-47057/) 乃木坂46 新内眞衣、自身の“すっぴん”について「戦闘能力がゼロ」
+- [https://www.allnightnippon.com/news/20191002-46730/](https://www.allnightnippon.com/news/20191002-46730/) 乃木坂46新内眞衣、伊藤純奈と鈴木絢音の“ファンの傾向”を語る
+- [https://www.allnightnippon.com/news/20190925-46405/](https://www.allnightnippon.com/news/20190925-46405/) 乃木坂46新内眞衣、「高校生クイズ」楽屋の様子をレポート！ 星野みなみの学生時代の得意科目は？
+- [https://www.allnightnippon.com/news/20190918-46001/](https://www.allnightnippon.com/news/20190918-46001/) 乃木坂46新内眞衣、「ミスセブンティーン2008」最終審査での思い出を明かす
+- [https://www.allnightnippon.com/news/20190916-45926/](https://www.allnightnippon.com/news/20190916-45926/) 乃木坂46、東京ゲームショウに初登場　齋藤飛鳥が“彼氏たち”との驚きのエピソードを告白
+- [https://www.allnightnippon.com/news/20190911-45721/](https://www.allnightnippon.com/news/20190911-45721/) 乃木坂46生田絵梨花、“泣かずにはいられなかった”桜井玲香のラストステージを語る
+- [https://www.allnightnippon.com/news/20190904-45501/](https://www.allnightnippon.com/news/20190904-45501/) 乃木坂46卒業の桜井玲香が最後のラジオ生放送出演！リスナーにメッセージも！
 - [https://www.allnightnippon.com/news/20190828-45261/](https://www.allnightnippon.com/news/20190828-45261/) 乃木坂46 新内眞衣、「真夏の全国ツアー」楽屋の様子をレポート！
-- [https://www.allnightnippon.com/news/20190820-44982/](https://www.allnightnippon.com/news/20190820-44982/) 乃木坂46秋元真夏、新キャ プテン就任に「人としてもステップアップしなければいけない時期」
-- [https://www.allnightnippon.com/news/20190814-44782/](https://www.allnightnippon.com/news/20190814-44782/) 乃木坂46秋元真夏が新キャ プテンに決定
-- [https://www.allnightnippon.com/news/20190814-44774/](https://www.allnightnippon.com/news/20190814-44774/) 乃木坂46新内眞衣、苦手な 心霊スポットへの潜入企画に涙
+- [https://www.allnightnippon.com/news/20190820-44982/](https://www.allnightnippon.com/news/20190820-44982/) 乃木坂46秋元真夏、新キャプテン就任に「人としてもステップアップしなければいけない時期」
+- [https://www.allnightnippon.com/news/20190814-44782/](https://www.allnightnippon.com/news/20190814-44782/) 乃木坂46秋元真夏が新キャプテンに決定
+- [https://www.allnightnippon.com/news/20190814-44774/](https://www.allnightnippon.com/news/20190814-44774/) 乃木坂46新内眞衣、苦手な心霊スポットへの潜入企画に涙
 - [https://www.allnightnippon.com/news/20190813-44710/](https://www.allnightnippon.com/news/20190813-44710/) 乃木坂46 が2曲のMusic Videoを一挙に公開
 - [https://www.allnightnippon.com/news/20190812-44688/](https://www.allnightnippon.com/news/20190812-44688/) 欅坂46・尾関梨香、乃木坂46・新内眞衣と食事会「ラジオの先輩からアドバイスを」
-- [https://www.allnightnippon.com/news/20190807-44512/](https://www.allnightnippon.com/news/20190807-44512/) 乃木坂46・新内眞衣、初選 抜の4期生・遠藤さくら達に「本当に若い……」
+- [https://www.allnightnippon.com/news/20190807-44512/](https://www.allnightnippon.com/news/20190807-44512/) 乃木坂46・新内眞衣、初選抜の4期生・遠藤さくら達に「本当に若い……」
 - [https://www.allnightnippon.com/news/20190806-44478/](https://www.allnightnippon.com/news/20190806-44478/) 乃木坂46 24thシングル「夜明けまで強がらなくてもいい」ジャケット写真が公開
 - [https://www.allnightnippon.com/news/20190731-44291/](https://www.allnightnippon.com/news/20190731-44291/) 乃木坂46 NEWシングル　7月31日（水）深夜1時～「乃木坂46のオールナイトニッポン」にて初オンエアーが決定！
 - [https://www.allnightnippon.com/news/20190731-44313/](https://www.allnightnippon.com/news/20190731-44313/) 乃木坂46新内眞衣、「FNSうたの夏まつり」でのディズニーとのコラボに感動

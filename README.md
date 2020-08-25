@@ -1,5 +1,3 @@
-- [https://twitter.com/tset_tset_tset](https://twitter.com/tset_tset_tset) tset(@tset_tset_tset)さん - Twitter
-- [https://www.youtube.com/channel/UCyCGUz2wHtWYBS3x3XgQZ0g](https://www.youtube.com/channel/UCyCGUz2wHtWYBS3x3XgQZ0g) tset_tset_tset - YouTube
 
 # 新内眞衣
 - [https://ja.wikipedia.org/wiki/%E6%96%B0%E5%86%85%E7%9C%9E%E8%A1%A3](https://ja.wikipedia.org/wiki/%E6%96%B0%E5%86%85%E7%9C%9E%E8%A1%A3) 新内眞衣 - Wikipedia

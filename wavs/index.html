@@ -6,11 +6,11 @@ find -name '*.mp3' | xargs -i sh -c 'echo "$(dirname "{}") <audio controls src=\
 -->
 <body>
 <ol>
-<li>����񂿂�񂱂��Ă��������ł����. ���₿��񂱂���Ȃ��ł���. ���������̂͂���񂿂�񂱂ł�.</li>
-<li>���˓����⍂�������̏ꏊ������ĕۑ����Ă�������.</li>
-<li>�{���ɂт����肵����ł����ǃX�^�b�t�̐l�ɂ������v���[���g�������, �����Ă݂���w�ւ�������ł���.</li>
-<li>���T���[���X��`�ɏZ��ł���F�B���炨�O�}�W�Ńt�@�b�N���Ȃ��Č����܂���.</li>
-<li>�ŋ߂̔Y�݂̓����o�[�ɂ܂����̖��O���o�����Ă��Ȃ����Ƃł���.</li>
+<li>ちゃんちゃんこっておいしいですよね. いやちゃんこじゃないですよ. おいしいのはちゃんちゃんこです.</li>
+<li>直射日光や高温多湿の場所を避けて保存してください.</li>
+<li>本当にびっくりしたんですけどスタッフの人にさっきプレゼントもらって, あけてみたら指輪だったんですよ.</li>
+<li>ロサンゼルス空港に住んでいる友達からお前マジでファックだなって言われました.</li>
+<li>最近の悩みはメンバーにまだ下の名前を覚えられていないことですね.</li>
 </ol>
 
 <table border=2>
@@ -20,7 +20,7 @@ find -name '*.mp3' | xargs -i sh -c 'echo "$(dirname "{}") <audio controls src=\
 <th>NVIDIA/tacotron2 100k<br>+<br>NVIDIA/waveglow 500k</th>
 <th></th>
 </tr>
-<tr><td>���[�}�����̂܂�A</td>
+<tr><td>ローマ字そのままA</td>
 <td>
 <audio controls src="./tacotron2/pre-trained/1.mp3"></audio><br>
 <audio controls src="./tacotron2/pre-trained/2.mp3"></audio><br>
@@ -40,12 +40,12 @@ find -name '*.mp3' | xargs -i sh -c 'echo "$(dirname "{}") <audio controls src=\
 </tr>
 
 <tr><th>input</th>
-<th>mozzila/tts Tacotron2 100k<br>+<br>mozzila/tts �f�t�H</th>
-<th>mozzila/tts Tacotron2 200k<br>+<br>mozzila/tts �f�t�H</th>
+<th>mozzila/tts Tacotron2 100k<br>+<br>mozzila/tts デフォ</th>
+<th>mozzila/tts Tacotron2 200k<br>+<br>mozzila/tts デフォ</th>
 <th>mozzila/tts Tacotron2 100k<br>+<br>mozzila/tts MelGAN 500k</th>
 <th>mozzila/tts Tacotron2 200k<br>+<br>mozzila/tts MelGAN 500k</th>
 </tr>
-<tr><td>���[�}�����̂܂�A</td>
+<tr><td>ローマ字そのままA</td>
 <td>
 <audio controls src="./1_roma-ji_only_100k/non-voc/shinnuchi/chanchankotte_oishiidesuyoneiyachankojiyanaidesuyooishiinoha_chanchankodesu.mp3"></audio><br>
 <audio controls src="./1_roma-ji_only_100k/non-voc/shinnuchi/chokushanikkouya_kouontashitsuno_bashowo_sakete_hozonshite_kudasai.mp3"></audio><br>
@@ -64,14 +64,14 @@ find -name '*.mp3' | xargs -i sh -c 'echo "$(dirname "{}") <audio controls src=\
 <td></td>
 </tr>
 
-<tr><td>���[�}�����̂܂�B</td>
+<tr><td>ローマ字そのままB</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
-<tr><td>���[�}�� phonemize A</td>
+<tr><td>ローマ字 phonemize A</td>
 <td>
 <audio controls src="./2_roma-ji_phonemize_100k/non-voc/shinnuchi/chanchankotte_oishiidesuyoneiyachankojiyanaidesuyooishiinoha_chanchankodesu.mp3"></audio><br>
 <audio controls src="./2_roma-ji_phonemize_100k/non-voc/shinnuchi/chokushanikkouya_kouontashitsuno_bashowo_sakete_hozonshite_kudasai.mp3"></audio><br>
@@ -102,7 +102,7 @@ find -name '*.mp3' | xargs -i sh -c 'echo "$(dirname "{}") <audio controls src=\
 </td>
 </tr>
 
-<tr><td>���[�}�� phonemize B</td>
+<tr><td>ローマ字 phonemize B</td>
 <td>
 <audio controls src="./2_roma-ji_phonemize_100k/non-voc/nishino/chanchankotte_oishiidesuyoneiyachankojiyanaidesuyooishiinoha_chanchankodesu.mp3"></audio><br>
 <audio controls src="./2_roma-ji_phonemize_100k/non-voc/nishino/chokushanikkouya_kouontashitsuno_bashowo_sakete_hozonshite_kudasai.mp3"></audio><br>
@@ -115,7 +115,7 @@ find -name '*.mp3' | xargs -i sh -c 'echo "$(dirname "{}") <audio controls src=\
 <td></td>
 </tr>
 
-<tr><td>�t���K�i phonemize A</td>
+<tr><td>フリガナ phonemize A</td>
 <td>
 <audio controls src="./3_kana_phonemize_100k/non-voc/shinnuchi/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B3%E3%83%83%E3%83%86_%E3%82%AA%E3%82%A4%E3%82%B7%E3%82%A4%E3%83%87%E3%82%B9%E3%83%A8%E3%83%8D%E3%82%A4%E3%83%A4%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B3%E3%82%B8%E3%83%A3%E3%83%8A%E3%82%A4%E3%83%87%E3%82%B9%E3%83%A8%E3%82%AA%E3%82%A4%E3%82%B7%E3%82%A4%E3%83%8E%E3%83%8F_%E3%83%81%E3%83%A3%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B3%E3%83%87%E3%82%B9.mp3"></audio><br>
 <audio controls src="./3_kana_phonemize_100k/non-voc/shinnuchi/%E3%83%81%E3%83%A7%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%8B%E3%83%83%E3%82%B3%E3%82%A6%E3%83%A4_%E3%82%B3%E3%82%A6%E3%82%AA%E3%83%B3%E3%82%BF%E3%82%B7%E3%83%84%E3%83%8E_%E3%83%90%E3%82%B7%E3%83%A7%E3%83%B2_%E3%82%B5%E3%82%B1%E3%83%86_%E3%83%9B%E3%82%BE%E3%83%B3%E3%82%B7%E3%83%86_%E3%82%AF%E3%83%80%E3%82%B5%E3%82%A4.mp3"></audio><br>
@@ -147,7 +147,7 @@ find -name '*.mp3' | xargs -i sh -c 'echo "$(dirname "{}") <audio controls src=\
 </tr>
 
 
-<tr><td>�t���K�i phonemize B</td>
+<tr><td>フリガナ phonemize B</td>
 <td>
 <audio controls src="./3_kana_phonemize_100k/non-voc/nishino/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B3%E3%83%83%E3%83%86_%E3%82%AA%E3%82%A4%E3%82%B7%E3%82%A4%E3%83%87%E3%82%B9%E3%83%A8%E3%83%8D%E3%82%A4%E3%83%A4%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B3%E3%82%B8%E3%83%A3%E3%83%8A%E3%82%A4%E3%83%87%E3%82%B9%E3%83%A8%E3%82%AA%E3%82%A4%E3%82%B7%E3%82%A4%E3%83%8E%E3%83%8F_%E3%83%81%E3%83%A3%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B3%E3%83%87%E3%82%B9.mp3"></audio><br>
 <audio controls src="./3_kana_phonemize_100k/non-voc/nishino/%E3%83%81%E3%83%A7%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%8B%E3%83%83%E3%82%B3%E3%82%A6%E3%83%A4_%E3%82%B3%E3%82%A6%E3%82%AA%E3%83%B3%E3%82%BF%E3%82%B7%E3%83%84%E3%83%8E_%E3%83%90%E3%82%B7%E3%83%A7%E3%83%B2_%E3%82%B5%E3%82%B1%E3%83%86_%E3%83%9B%E3%82%BE%E3%83%B3%E3%82%B7%E3%83%86_%E3%82%AF%E3%83%80%E3%82%B5%E3%82%A4.mp3"></audio><br>

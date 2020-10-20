@@ -14,8 +14,8 @@ find -name '*.mp3' | xargs -i sh -c 'echo "$(dirname "{}") <audio controls src=\
 </ol>
 
 <table border=2>
-<tr><th>input</th>
-<th>NVIDIA/tacotron2 100k<br>+<br>NVIDIA/waveglow pre trained</th>
+<tr><th><a id="tacotron2">input</a></th>
+<th name="">NVIDIA/tacotron2 100k<br>+<br>NVIDIA/waveglow pre trained</th>
 <th></th>
 <th>NVIDIA/tacotron2 100k<br>+<br>NVIDIA/waveglow 500k</th>
 <th></th>
@@ -39,12 +39,13 @@ find -name '*.mp3' | xargs -i sh -c 'echo "$(dirname "{}") <audio controls src=\
 <td></td>
 </tr>
 
-<tr><th>input</th>
+<tr><th><a id="mozilla">input</a></th>
 <th>mozzila/tts Tacotron2 100k<br>+<br>mozzila/tts Griffin Lim</th>
 <th>mozzila/tts Tacotron2 200k<br>+<br>mozzila/tts Griffin Lim</th>
 <th>mozzila/tts Tacotron2 100k<br>+<br>mozzila/tts MelGAN 500k</th>
 <th>mozzila/tts Tacotron2 200k<br>+<br>mozzila/tts MelGAN 500k</th>
 </tr>
+
 <tr><td bgcolor="#ccffff">uconv 後のローマ字そのまま (女性)</td>
 <td>
 <audio controls src="./1_roma-ji_only_100k/non-voc/shinnuchi/chanchankotte_oishiidesuyoneiyachankojiyanaidesuyooishiinoha_chanchankodesu.mp3"></audio><br>
@@ -191,6 +192,55 @@ find -name '*.mp3' | xargs -i sh -c 'echo "$(dirname "{}") <audio controls src=\
 <audio controls src="./3_kana_phonemize_200k/non-voc/nishino/%E3%83%9B%E3%83%B3%E3%83%88%E3%82%A6%E3%83%8B%E3%83%93%E3%83%83%E3%82%AF%E3%83%AA%E3%82%B7%E3%82%BF_%E3%83%B3%E3%83%87%E3%82%B9%E3%82%B1%E3%83%89_%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%83%8E_%E3%83%92%E3%83%88%E3%83%8B_%E3%82%B5%E3%83%83%E3%82%AD%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%83%A2%E3%83%A9%E3%83%83%E3%83%86_%E3%82%A2%E3%82%B1%E3%83%86_%E3%83%9F%E3%82%BF%E3%83%A9_%E3%83%A6%E3%83%93%E3%83%AF%E3%83%80%E3%83%83%E3%82%BF_%E3%83%B3%E3%83%87%E3%82%B9%E3%83%A8.mp3"></audio><br>
 <audio controls src="./3_kana_phonemize_200k/non-voc/nishino/%E3%83%AD%E3%82%B5%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B9%E3%82%AF%E3%82%A6%E3%82%B3%E3%82%A6%E3%83%8B_%E3%82%B9%E3%83%B3%E3%83%87_%E3%82%A4%E3%83%AB%E3%83%88%E3%83%A2%E3%83%80%E3%83%81%E3%82%AB%E3%83%A9_%E3%82%AA%E3%83%9E%E3%82%A8%E3%83%9E%E3%82%B8%E3%83%87%E3%83%95%E3%82%A1%E3%83%83%E3%82%AF%E3%83%80%E3%83%8A%E3%83%83%E3%83%86%E3%82%A4%E3%83%AF%E3%83%AC%E3%83%9E%E3%82%B7%E3%82%BF.mp3"></audio><br>
 <audio controls src="./3_kana_phonemize_200k/non-voc/nishino/%E3%82%B5%E3%82%A4%E3%82%AD%E3%83%B3%E3%83%8E_%E3%83%8A%E3%83%A4%E3%83%9F%E3%83%8F_%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%83%8B_%E3%83%9E%E3%83%80%E3%82%B7%E3%82%BF%E3%83%8E_%E3%83%8A%E3%83%9E%E3%82%A8%E3%83%B2_%E3%82%AA%E3%83%9C%E3%82%A8%E3%83%A9%E3%83%AC%E3%83%86_%E3%82%A4%E3%83%8A%E3%82%A4_%E3%82%B3%E3%83%88%E3%83%87%E3%82%B9%E3%83%8D.mp3"></audio><br>
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr><th><a id="nemo">input</a></th>
+<th>NVIDIA/NeMo Tacotron2<br>+<br>NVIDIA/NeMo Griffin Lim</th>
+<th>NVIDIA/NeMo GlowTTS<br>+<br>NVIDIA/NeMo Griffin Lim</th>
+<th></th>
+<th></th>
+</tr>
+
+<tr><td bgcolor="#ccffff">uconv 後のローマ字そのまま (女性)</td>
+<td>
+val_loss=2.43-epoch=79<br>
+<audio controls src="./nemo/tacotron2/shinnuchi/1.mp3"></audio><br>
+<audio controls src="./nemo/tacotron2/shinnuchi/2.mp3"></audio><br>
+<audio controls src="./nemo/tacotron2/shinnuchi/3.mp3"></audio><br>
+<audio controls src="./nemo/tacotron2/shinnuchi/4.mp3"></audio><br>
+<audio controls src="./nemo/tacotron2/shinnuchi/5.mp3"></audio><br>
+</td>
+<td>
+val_loss=0.51-epoch=124<br>
+<audio controls src="./nemo/glowtts/shinnuchi/1.mp3"></audio><br>
+<audio controls src="./nemo/glowtts/shinnuchi/2.mp3"></audio><br>
+<audio controls src="./nemo/glowtts/shinnuchi/3.mp3"></audio><br>
+<audio controls src="./nemo/glowtts/shinnuchi/4.mp3"></audio><br>
+<audio controls src="./nemo/glowtts/shinnuchi/5.mp3"></audio><br>
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr><td bgcolor="#ccffff">uconv 後のローマ字そのまま (男性)</td>
+<td>
+val_loss=4.33-epoch=37<br>
+<audio controls src="./nemo/tacotron2/nishino/1.mp3"></audio><br>
+<audio controls src="./nemo/tacotron2/nishino/2.mp3"></audio><br>
+<audio controls src="./nemo/tacotron2/nishino/3.mp3"></audio><br>
+<audio controls src="./nemo/tacotron2/nishino/4.mp3"></audio><br>
+<audio controls src="./nemo/tacotron2/nishino/5.mp3"></audio><br>
+</td>
+<td>
+val_loss=0.51-epoch=104<br>
+<audio controls src="./nemo/glowtts/nishino/1.mp3"></audio><br>
+<audio controls src="./nemo/glowtts/nishino/2.mp3"></audio><br>
+<audio controls src="./nemo/glowtts/nishino/3.mp3"></audio><br>
+<audio controls src="./nemo/glowtts/nishino/4.mp3"></audio><br>
+<audio controls src="./nemo/glowtts/nishino/5.mp3"></audio><br>
 </td>
 <td></td>
 <td></td>
